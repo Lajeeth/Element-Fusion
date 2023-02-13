@@ -1,0 +1,98 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void CharacterControllerHMDUpdater_Start_mAE61F7569271C87138B244FC62CD456EA8BE425D (void);
+extern void CharacterControllerHMDUpdater_Update_mC85E008D206FBACF16B703327EC8159F5E8CD92E (void);
+extern void CharacterControllerHMDUpdater_UpdateCharacterController_m66607E516CDD07C7E98BAE4F011A9F54CC989F94 (void);
+extern void CharacterControllerHMDUpdater__ctor_m7F611504DB1EB7826AC0125A336912E8A61DF301 (void);
+extern void Hand_HideHandOnSelect_mE0BA42562C1C42A917480729372B985F70FA7CCE (void);
+extern void Hand_Start_mF97170CC92093DE16E9DD633908D8FF76D6386DB (void);
+extern void Hand_InitializeHand_mBAD51F437078EEA42AB2EE30D44BBD80ACDBBDA6 (void);
+extern void Hand_Update_mE9D471ECB2864A5ADFBB6C01668A39778E8BFE1F (void);
+extern void Hand_UpdateHand_mAE6A1B5B29712C5CE4B185E797841C4DBE29EAC4 (void);
+extern void Hand__ctor_m98922058C1A056306D560A36EAEDCE0247110FA8 (void);
+extern void TeleportationController_Start_m4970D02163CFB399F7DDD498EFFA82F32093A1A7 (void);
+extern void TeleportationController_OnDestroy_m62967DDED645DF36333C425823800CC0067DBED5 (void);
+extern void TeleportationController_Update_mA6BABEC98260D66D118BB5554BEA9A9CB762D22D (void);
+extern void TeleportationController_OnTeleportActivate_m2921F7A1B092F869D7A6D56F904E3C06EF1C35C1 (void);
+extern void TeleportationController_OnTeleportCancel_mA54D5990A0411077D00A4AD21ABE8F7F85169702 (void);
+extern void TeleportationController__ctor_m014D272FFDA1F0DCC2CF330BBBC7D47C8829B001 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_IsEditorOnly_m59E10A16B0BDEA496377805E39C3D90B1E2C4815 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_Get_mDAD527916A4779DB4ACAFEADC3BA7372671FA647 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes__ctor_mE2C680837D47039E3F06032AA8C63FEDB7E783A5 (void);
+static Il2CppMethodPointer s_methodPointers[19] = 
+{
+	CharacterControllerHMDUpdater_Start_mAE61F7569271C87138B244FC62CD456EA8BE425D,
+	CharacterControllerHMDUpdater_Update_mC85E008D206FBACF16B703327EC8159F5E8CD92E,
+	CharacterControllerHMDUpdater_UpdateCharacterController_m66607E516CDD07C7E98BAE4F011A9F54CC989F94,
+	CharacterControllerHMDUpdater__ctor_m7F611504DB1EB7826AC0125A336912E8A61DF301,
+	Hand_HideHandOnSelect_mE0BA42562C1C42A917480729372B985F70FA7CCE,
+	Hand_Start_mF97170CC92093DE16E9DD633908D8FF76D6386DB,
+	Hand_InitializeHand_mBAD51F437078EEA42AB2EE30D44BBD80ACDBBDA6,
+	Hand_Update_mE9D471ECB2864A5ADFBB6C01668A39778E8BFE1F,
+	Hand_UpdateHand_mAE6A1B5B29712C5CE4B185E797841C4DBE29EAC4,
+	Hand__ctor_m98922058C1A056306D560A36EAEDCE0247110FA8,
+	TeleportationController_Start_m4970D02163CFB399F7DDD498EFFA82F32093A1A7,
+	TeleportationController_OnDestroy_m62967DDED645DF36333C425823800CC0067DBED5,
+	TeleportationController_Update_mA6BABEC98260D66D118BB5554BEA9A9CB762D22D,
+	TeleportationController_OnTeleportActivate_m2921F7A1B092F869D7A6D56F904E3C06EF1C35C1,
+	TeleportationController_OnTeleportCancel_mA54D5990A0411077D00A4AD21ABE8F7F85169702,
+	TeleportationController__ctor_m014D272FFDA1F0DCC2CF330BBBC7D47C8829B001,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_IsEditorOnly_m59E10A16B0BDEA496377805E39C3D90B1E2C4815,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_Get_mDAD527916A4779DB4ACAFEADC3BA7372671FA647,
+	UnitySourceGeneratedAssemblyMonoScriptTypes__ctor_mE2C680837D47039E3F06032AA8C63FEDB7E783A5,
+};
+static const int32_t s_InvokerIndices[19] = 
+{
+	5794,
+	5794,
+	5794,
+	5794,
+	5794,
+	5794,
+	5794,
+	5794,
+	5794,
+	5794,
+	5794,
+	5794,
+	5794,
+	4681,
+	4681,
+	5794,
+	8547,
+	8577,
+	5794,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	19,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
