@@ -8,6 +8,7 @@ TagManager:
   - Water
   - Fire
   - Steam
+  - WaterNub
   layers:
   - Default
   - TransparentFX
