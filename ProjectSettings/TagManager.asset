@@ -9,6 +9,19 @@ TagManager:
   - Fire
   - Steam
   - WaterNub
+  - GeneralNub
+  - Obsidian
+  - Dustcloud
+  - Dust
+  - Lava
+  - Earth
+  - Rain
+  - Sand
+  - Air
+  - Mud
+  - Plant
+  - Sun
+  - Cloud
   layers:
   - Default
   - TransparentFX

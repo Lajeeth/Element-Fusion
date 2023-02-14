@@ -10,11 +10,15 @@ public class Water : MonoBehaviour
     {
         if (other.tag == "Lava")
         {
+            Destroy(other.gameObject);
+            Destroy(gameObject);
             Instantiate(Obsidian, transform.position, transform.rotation);
         }
 
         if (other.tag == "Air")
         {
+            Destroy(other.gameObject);
+            Destroy(gameObject);
             Instantiate(Rain, transform.position, transform.rotation);
         }
     }
